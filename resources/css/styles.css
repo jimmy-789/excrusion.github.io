@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    padding: 2rem;
+    margin: 1rem;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.app-inst-link a {
+    text-decoration: underline;
+    color: aquamarine;
+    font-size: 20px;
+}
+
+/* sub-sectioon */
+
+.sub-section h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    padding: 2rem;
+    padding-bottom: 1rem;
+    margin: 0.75rem;
+}
+
+.sub-section p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    padding: 0.75rem;
+    margin: 0.75rem;
+}
+
+.phone-icon {
+    padding: 2rem;
+    margin: 1rem;
+}
+
+.bottom-link {
+    padding: 2rem;
+    padding-top: 0.5rem;
+    margin: 1rem;
+}
+
+footer {
+    padding-top: 2rem;
+    margin: 1rem 1rem 0 1rem;
+}
+
+footer h3 {
+    color: gray;
+    font-size: 2rem;
+    text-align: right;
+    margin: 1rem;
+    padding: 0.75rem;
+}
