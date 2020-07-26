@@ -11,24 +11,24 @@
 ### JavaScript variables must be identified with unique names.
 
 - ## Variables can be created in three way:-
-  1. ### By using 'var' keyword (which is old way, do not use it that much).
-  1. ### By using 'let' keyword.
-  1. ### By using 'const' keyword.
+  1. By using 'var' keyword (which is old way, do not use it that much).
+  1. By using 'let' keyword.
+  1. By using 'const' keyword.
 
 ---
 
 ### Remember some points while decalaring variables with 'let' keyword:-
 
-1. ### you can initialize variable without assigning value to the variable.
-1. ### you can redeclare variable value.
+1. you can initialize variable without assigning value to the variable.
+1. you can redeclare variable value.
 
 ---
 
 ### Remember some points while decalaring variables with 'const' keyword:-
 
-1. ### you can not initialize variable without assigning value to the variable.
-1. ### you can not redeclare variable value.
-   - ### one suggestion use 'const' when you do not want to redeclare variable value.
+1. you can not initialize variable without assigning value to the variable.
+1. you can not redeclare variable value.
+   - one suggestion use 'const' when you do not want to redeclare variable value.
 
 ---
 
