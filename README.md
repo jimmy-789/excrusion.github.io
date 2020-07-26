@@ -27,7 +27,7 @@
 ### Remember some points while decalaring variables with 'const' keyword:-
 
 1. ### you can not initialize variable without assigning value to the variable.
-1. ### you can redeclare variable value.
+1. ### you can not redeclare variable value.
    - ### one suggestion use 'const' when you do not want to redeclare variable value.
 
 ---
